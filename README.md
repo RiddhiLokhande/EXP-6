@@ -12,11 +12,11 @@ You need to have a C++ compiler installed on your system. Common options include
 ## Theory
  In C++, for, while, and do-while loops are control flow statements that allow you to execute a block of code multiple times based on conditions. Each loop type serves different scenarios based on how you need to iterate and the condition checks.
 #### Loops
--for Loop
+- for Loop
 The for loop is typically used when the number of iterations is known beforehand. It consists of three parts: initialization, condition, and increment/decrement.
--while Loop
+- while Loop
 The while loop is used when the number of iterations is not known beforehand and the condition needs to be checked before executing the loop body.
-do-while Loop
+- do-while Loop
 The do-while loop is similar to the while loop, but it guarantees that the loop body will execute at least once because the condition is checked after the loop body.
 
 ## CODE 1 FOR LOOP
