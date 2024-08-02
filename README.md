@@ -59,10 +59,10 @@ int main() {
 ### Output
 ![image](https://github.com/user-attachments/assets/8cfa2a14-3d1c-4632-8c1b-ff619c2de7f1)
 
-## CODE 3 WHILE LOOP
+## CODE 3 DO WHILE LOOP
 ```cpp
 
-/RIDDHI LOKHANDE 
+//RIDDHI LOKHANDE 
 //EXP 6 C
 //23070123107
 //ENTC B2
@@ -79,12 +79,48 @@ int main() {
 
 
 ```
+
 ### Output
 ![image](https://github.com/user-attachments/assets/41b43dad-c53d-47cf-b8e6-c918e4163f03)
 
 #### CODE 4 NESTED FOR LOOP
+```cpp
 
 
+//RIDDHI LOKHANDE 
+//EXP 6 D
+//23070123107
+//ENTC B2
+#include <iostream>
+
+int main() {
+    int matrix1[2][2] = {{1, 2}, {3, 4}};
+    int matrix2[2][2] = {{5, 6}, {7, 8}};
+    int result[2][2] = {0};  
+
+    
+    for (int i = 0; i < 2; ++i) {
+        for (int j = 0; j < 2; ++j) {
+            for (int k = 0; k < 2; ++k) {
+                result[i][j] += matrix1[i][k] * matrix2[k][j];
+            }
+        }
+    }
+
+    std::cout << "Result matrix:" << std::endl;
+    for (int i = 0; i < 2; ++i) {
+        for (int j = 0; j < 2; ++j) {
+            std::cout << result[i][j] << " ";
+        }
+        std::cout << std::endl;
+    }
+
+    return 0;
+}
+
+```
+#### CODE 4 NESTED WHILE LOOP
+```cpp
 
 
 ## Conclusion
