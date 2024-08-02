@@ -184,7 +184,27 @@ int main() {
 //EXP 6 G
 //23070123107
 //ENTC B2
+//RIDDHI LOKHANDE
+//ENTC B2
+//23070123107
+//EXP 6G
+#include <iostream>
 
+int main() {
+    for (int i = 1; i <= 10; ++i) {
+        int j = 1;  
+        while (j <= 10) {
+            std::cout << i * j << "\t"; 
+            ++j;  
+        }
+
+        std::cout << std::endl;  
+    }
+    return 0;
+}
+```
+### Output
+<img width="812" alt="EXP 6 G" src="https://github.com/user-attachments/assets/976403ea-6c81-406d-89ef-c8c5790109a1">
 
 
 
