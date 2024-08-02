@@ -119,6 +119,8 @@ int main() {
 }
 
 ```
+### Output
+<img width="825" alt="EXP 6 E OUTPUT" src="https://github.com/user-attachments/assets/efea74d0-adf7-4fbf-b7a7-38e76ef244ed">
 
 #### CODE 4 NESTED WHILE LOOP
 ```cpp
@@ -145,6 +147,9 @@ int main() {
     return 0;
 }
 ```
+### Output
+<img width="825" alt="EXP 6 E OUTPUT" src="https://github.com/user-attachments/assets/6d911c96-b92c-446b-b7e6-5ebad51ca7f9">
+
 #### CODE 4 NESTED DO WHILE LOOP
 ```cpp
 //RIDDHI LOKHANDE 
@@ -169,6 +174,10 @@ int main() {
     return 0;
 }
 ```
+### Output
+<img width="817" alt="EXP 6 F OUTPUT" src="https://github.com/user-attachments/assets/0ab15004-742f-4651-bf21-75f7e125bdbc">
+
+
 #### CODE 4 NESTED FOR AND INSIDE IT  WHILE LOOP
 ```cpp
 //RIDDHI LOKHANDE 
