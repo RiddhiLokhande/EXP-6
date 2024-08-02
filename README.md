@@ -39,7 +39,7 @@ int main(){
 ```
 ### Output
 ![image](https://github.com/user-attachments/assets/30d90e4e-ab66-4501-9b6a-7de0eb619981)
-## CODE 1 WHILE LOOP
+## CODE 2 WHILE LOOP
 ```cpp
 
 /RIDDHI LOKHANDE 
@@ -62,7 +62,7 @@ int main() {
 ### Output
 ![image](https://github.com/user-attachments/assets/8cfa2a14-3d1c-4632-8c1b-ff619c2de7f1)
 
-## CODE 1 WHILE LOOP
+## CODE 3 WHILE LOOP
 ```cpp
 
 /RIDDHI LOKHANDE 
@@ -84,6 +84,9 @@ int main() {
 ```
 ### Output
 ![image](https://github.com/user-attachments/assets/41b43dad-c53d-47cf-b8e6-c918e4163f03)
+
+#### CODE 4 NESTED FOR LOOP
+
 
 
 
