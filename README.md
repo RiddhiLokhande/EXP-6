@@ -42,17 +42,14 @@ int main(){
 ## CODE 2 WHILE LOOP
 ```cpp
 
-/RIDDHI LOKHANDE 
-//EXP 6 B
-//23070123107
-//ENTC B2
 #include <iostream>
+
 int main() {
     int i = 1; 
-    while (i <= 10) {
+    do {
         std::cout << i << std::endl; 
         i++; 
-    }
+    } while (i <= 10); 
 
     return 0;
 }
