@@ -1,3 +1,7 @@
+//RIDDHI LOKHANDE
+//ENTC B2
+//23070123107
+//EXP 6G
 #include <iostream>
 
 int main() {
